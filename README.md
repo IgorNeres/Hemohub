@@ -1,23 +1,26 @@
 <p align="center">
-  <img src="imagens/banner.png" alt="HemoHub Banner" width="100%">
+<img src="imagens/banner.png" width="100%">
 </p>
 
 <h1 align="center">🩸 HemoHub</h1>
 
 <p align="center">
-Uma plataforma desenvolvida para aproximar doadores de sangue e hemocentros através de uma experiência digital intuitiva, moderna e centrada no usuário.
+<b>Conectando doadores e hemocentros através de uma experiência digital simples, intuitiva e centrada no usuário.</b>
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Status-Prot%C3%B3tipo-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Figma-UI%2FUX-purple?style=for-the-badge&logo=figma">
-<img src="https://img.shields.io/badge/UX-Research-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/IHC-UFC-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Figma-UI%2FUX-A259FF?style=for-the-badge&logo=figma&logoColor=white">
+
+<img src="https://img.shields.io/badge/User-Centered%20Design-0052CC?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Heurísticas%20de%20Nielsen-2E8B57?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Disciplina-IHC-C62828?style=for-the-badge">
 
 </p>
-
 ---
 
 # 📑 Índice
@@ -231,61 +234,75 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 
 # 🖼 Galeria
 
-## Landing Page
+## 🎯 Landing Page
 
 <p align="center">
-<img src="imagens/landing.png" width="900">
+<img src="imagens/Landpage.png" width="900">
 </p>
 
 ---
 
-## Login e Cadastro
+## 🔐 Login
 
 <p align="center">
-<img src="imagens/login.png" width="45%">
-<img src="imagens/cadastro.png" width="45%">
+<img src="imagens/Login.png" width="900">
 </p>
 
 ---
 
-## Home
+## 🏠 Home
 
 <p align="center">
-<img src="imagens/home.png" width="900">
+<img src="imagens/Home.png" width="900">
 </p>
 
 ---
 
-## Agendamento
+## 📅 Agendamento
 
 <p align="center">
-<img src="imagens/agendamento.png" width="900">
+<img src="imagens/Agendamentos.png" width="900">
 </p>
 
 ---
 
-## Perfil
+## 📍 Escolha do Hemocentro
 
 <p align="center">
-<img src="imagens/perfil.png" width="900">
+<img src="imagens/EscolherLocal.png" width="900">
 </p>
 
 ---
 
-## Sistema de Badges
+## ✅ Confirmação do Agendamento
 
 <p align="center">
-<img src="imagens/badges.png" width="900">
+<img src="imagens/Confirmacao.png" width="900">
 </p>
 
 ---
 
-## Configurações
+## 🏅 Sistema de Badges
 
 <p align="center">
-<img src="imagens/configuracoes.png" width="900">
+<img src="imagens/Badgets.png" width="900">
 </p>
 
+---
+
+## 👤 Perfil
+
+<p align="center">
+<img src="imagens/Perfil.png" width="900">
+</p>
+
+---
+
+## ⚙ Configurações
+
+<p align="center">
+<img src="imagens/Configuracoes.png" width="900">
+</p>
 ---
 
 # 🛠 Ferramentas Utilizadas
@@ -293,12 +310,6 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=figma"/>
-
-</p>
-
-<p align="center">
-
-Google Forms • Google Meet • OBS Studio • Power BI
 
 </p>
 
