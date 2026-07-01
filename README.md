@@ -266,13 +266,6 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 
 ---
 
-## 📍 Escolha do Hemocentro
-
-<p align="center">
-<img src="imgs/EscolherLocal.png" width="900">
-</p>
-
----
 
 ## ✅ Confirmação do Agendamento
 
