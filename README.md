@@ -21,7 +21,13 @@
 <img src="https://img.shields.io/badge/Disciplina-IHC-C62828?style=for-the-badge">
 
 </p>
----
+<p align="center">
+
+<a href="https://www.figma.com/proto/1c4wfavjSeq5EhDDXo1JSi/Hemohub?node-id=0-1&t=tNrKlYYbJcgLHq1L-1">
+<img src="https://img.shields.io/badge/🎨%20Abrir%20Protótipo%20no%20Figma-A259FF?style=for-the-badge">
+</a>
+
+</p>
 
 # 📑 Índice
 
