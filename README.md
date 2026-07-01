@@ -228,7 +228,7 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 
 📎 **Acesse o protótipo:**
 
-> 🔗 Cole aqui o link público do Figma
+> 🔗 https://www.figma.com/proto/1c4wfavjSeq5EhDDXo1JSi/Hemohub?node-id=0-1&t=tNrKlYYbJcgLHq1L-1
 
 ---
 
