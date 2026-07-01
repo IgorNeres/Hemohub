@@ -1,5 +1,5 @@
 <p align="center">
-<img src="imagens/banner.png" width="100%">
+<img src="imgs/banner.png" width="100%">
 </p>
 
 <h1 align="center">🩸 HemoHub</h1>
@@ -237,7 +237,7 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 ## 🎯 Landing Page
 
 <p align="center">
-<img src="imagens/Landpage.png" width="900">
+<img src="imgs/Landpage.png" width="900">
 </p>
 
 ---
@@ -245,7 +245,7 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 ## 🔐 Login
 
 <p align="center">
-<img src="imagens/Login.png" width="900">
+<img src="imgs/Login.png" width="900">
 </p>
 
 ---
@@ -253,7 +253,7 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 ## 🏠 Home
 
 <p align="center">
-<img src="imagens/Home.png" width="900">
+<img src="imgs/Home.png" width="900">
 </p>
 
 ---
@@ -261,7 +261,7 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 ## 📅 Agendamento
 
 <p align="center">
-<img src="imagens/Agendamentos.png" width="900">
+<img src="imgs/Agendamentos.png" width="900">
 </p>
 
 ---
@@ -269,7 +269,7 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 ## 📍 Escolha do Hemocentro
 
 <p align="center">
-<img src="imagens/EscolherLocal.png" width="900">
+<img src="imgs/EscolherLocal.png" width="900">
 </p>
 
 ---
@@ -277,7 +277,7 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 ## ✅ Confirmação do Agendamento
 
 <p align="center">
-<img src="imagens/Confirmacao.png" width="900">
+<img src="imgs/Confirmacao.png" width="900">
 </p>
 
 ---
@@ -285,7 +285,7 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 ## 🏅 Sistema de Badges
 
 <p align="center">
-<img src="imagens/Badgets.png" width="900">
+<img src="imgs/Badgets.png" width="900">
 </p>
 
 ---
@@ -293,7 +293,7 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 ## 👤 Perfil
 
 <p align="center">
-<img src="imagens/Perfil.png" width="900">
+<img src="imgs/Perfil.png" width="900">
 </p>
 
 ---
@@ -301,9 +301,8 @@ Todo o protótipo foi desenvolvido utilizando o **Figma**.
 ## ⚙ Configurações
 
 <p align="center">
-<img src="imagens/Configuracoes.png" width="900">
+<img src="imgs/Configuracoes.png" width="900">
 </p>
----
 
 # 🛠 Ferramentas Utilizadas
 
